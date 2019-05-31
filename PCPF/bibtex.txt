@@ -1,0 +1,8 @@
+@inproceedings{wang2018robust,
+  title={Robust Object Tracking Via Part-Based Correlation Particle Filter},
+  author={Wang, Ning and Zhou, Wengang and Li, Houqiang},
+  booktitle={2018 IEEE International Conference on Multimedia and Expo (ICME)},
+  pages={1--6},
+  year={2018},
+  organization={IEEE}
+}
