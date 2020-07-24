@@ -1,0 +1,6 @@
+@InProceedings{POST,
+  title={POST: POlicy-based Switch Tracking},
+  author={Wang, Ning and Zhou, Wengang and Qi, Guojun and Li, Houqiang},
+  booktitle ={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+  year={2020}
+}
