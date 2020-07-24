@@ -1,0 +1,8 @@
+@ARTICLE{9080535,  
+   author={N. {Wang} and W. {Zhou} and Y. {Song} and C. {Ma} and H. {Li}},       
+   journal={IEEE Transactions on Image Processing},   
+   title={Real-Time Correlation Tracking Via Joint Model Compression and Transfer},   
+   year={2020}, 
+   volume={29},  
+   number={},  
+   pages={6123-6135},}
