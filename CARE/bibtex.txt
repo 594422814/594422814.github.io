@@ -1,0 +1,8 @@
+@ARTICLE{9130147,  
+    author={N. {Wang} and W. {Zhou} and Q. {Tian} and H. {Li}},  
+    journal={IEEE Transactions on Circuits and Systems for Video Technology},   
+    title={Cascaded Regression Tracking: Towards Online Hard Distractor Discrimination},   
+    year={2020},  
+    volume={},  
+    number={},  
+    pages={1-1},}
