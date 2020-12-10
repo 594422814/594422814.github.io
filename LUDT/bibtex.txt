@@ -1,0 +1,8 @@
+@article{wang2020unsupervised,
+  title={Unsupervised deep representation learning for real-time tracking},
+  author={Wang, Ning and Zhou, Wengang and Song, Yibing and Ma, Chao and Liu, Wei and Li, Houqiang},
+  journal={International Journal of Computer Vision (IJCV)},
+  pages={1--19},
+  year={2020},
+  publisher={Springer}
+}
