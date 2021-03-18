@@ -1,0 +1,9 @@
+@article{wang2021learning,
+  title={Learning Diverse Models for End-to-End Ensemble Tracking},
+  author={Wang, Ning and Zhou, Wengang and Li, Houqiang},
+  journal={IEEE Transactions on Image Processing},
+  volume={30},
+  pages={2220--2231},
+  year={2021},
+  publisher={IEEE}
+}
