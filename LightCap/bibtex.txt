@@ -1,0 +1,6 @@
+@inproceedings{Wang_2023_Efficient,
+    title={Efficient Image Captioning for Edge Devices},
+    author={Wang, Ning and Xie, Jiangrong and Luo, Hang and Cheng, Qinglin and Wu, Jihao and Jia, Mingbo and Li, Linlin},
+    booktitle={AAAI},
+    year={2023}
+}
